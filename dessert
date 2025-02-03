@@ -11,23 +11,23 @@
 
     <div class="dessert-selection">
       <div class="dessert-item">
-        <img src="food/boba.jpeg" alt="boba" />
+        <img src="food/boba.jpg" alt="boba" />
         <label
           ><input type="checkbox" name="dessert" value="boba" /> boba</label
         >
       </div>
       <div class="dessert-item">
-        <img src="food/halohalo.jpeg" alt="halohalo" />
+        <img src="food/halohalo.jpg" alt="halohalo" />
         <label><input type="checkbox" name="dessert" value="halohalo" /> halohalo</label>
       </div>
       </div> <div class="dessert-item">
-        <img src="food/lecheflan.jpeg" alt="lecheflan" />
+        <img src="food/lecheflan.jpg" alt="lecheflan" />
         <label
           ><input type="checkbox" name="dessert" value="lecheflan" /> lecheflan</label
         >
       </div>
       <div class="dessert-item">
-        <img src="food/icecream.jpeg" alt="icecream" />
+        <img src="food/icecream.jpg" alt="icecream" />
         <label
           ><input type="checkbox" name="dessert" value="icecream" />
           icecream</label
